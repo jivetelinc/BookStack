@@ -46,7 +46,7 @@
     "@ssddanbrown/codemirror-lang-twig": "^1.0.0",
     "codemirror": "^6.0.1",
     "idb-keyval": "^6.2.1",
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.3.3",
     "markdown-it-task-lists": "^2.1.1",
     "snabbdom": "^3.5.1",
     "sortablejs": "^1.15.1"
